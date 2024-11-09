@@ -3,7 +3,7 @@
 I'm a GAME CREATOR, CG CREATOR, WEB PAGE CREATOR, ILLUSTRATOR, and WRITER.
 
 I get bored of things easily.
- ###
+ ---
 [Here](https://saharaforge.com) is my page.
 
 <!--
