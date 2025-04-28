@@ -10,7 +10,7 @@ Yes, I get bored of things easily.
 
 [saharaforge.com/](https://saharaforge.com)
 
-<a href="https://saharaforge.com/" target="_blank"><img alt="saharaforge" src="https://img.shields.io/badge/saharaforge.com-F3A162.svg?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://saharaforge.com/" target="_blank"><img alt="saharaforge" src="https://img.shields.io/badge/saharaforge.com-000000.svg?&style=for-the-badge&logoColor=white" /></a>
 
 <a href="https://instagram.com/saharaforge" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23CF2E92.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://x.com/saharaforge" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
