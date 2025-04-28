@@ -6,11 +6,11 @@ Yes, I get bored of things easily.
 
  ---
 
-[Here](https://saharaforge.com) is my page.
-
 <!-- 2312100E -->
 
 [saharaforge.com/](https://saharaforge.com)
+
+<a href="https://saharaforge.com/" target="_blank"><img alt="saharaforge" src="https://img.shields.io/badge/style=for-the-badge&logo=saharaforge&logoColor=white" /></a>
 
 <a href="https://instagram.com/saharaforge" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23CF2E92.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://x.com/saharaforge" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
