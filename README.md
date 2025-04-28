@@ -8,12 +8,12 @@ Yes, I get bored of things easily.
 
 <!-- 2312100E -->
 
-<a href="https://saharaforge.com/" target="_blank"><img alt="saharaforge" src="https://img.shields.io/badge/saharaforge.com-F4A261.svg?&style=for-the-badge&logoColor=ffffff" /></a>
+[![saharaforge](https://img.shields.io/badge/saharaforge.com-F4A261.svg?&style=for-the-badge&logoColor=ffffff)](https://saharaforge.com/)
 
-<a href="https://note.com/saharaforge" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-%23ffffff.svg?&style=for-the-badge&logo=note&logoColor=black" /></a>
+[![note](https://img.shields.io/badge/note-%23ffffff.svg?&style=for-the-badge&logo=note&logoColor=black)](https://note.com/saharaforge)
 
-<a href="https://instagram.com/saharaforge" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23CF2E92.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://x.com/saharaforge" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://youtube.com/@saharaforge" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23DA1725.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a href="https://pixiv.net/saharaforge" target="_blank"><img alt="Pixiv" src="https://img.shields.io/badge/Pixiv-%230096fa.svg?&style=for-the-badge&logo=Pixiv&logoColor=white" /></a>
-<a href="https://github.com/saharaforge" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23CF2E92.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saharaforge)
+[![X](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/saharaforge)
+[![YouTube](https://img.shields.io/badge/YouTube-%23DA1725.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@saharaforge)
+[![Pixiv](https://img.shields.io/badge/Pixiv-%230096fa.svg?&style=for-the-badge&logo=Pixiv&logoColor=white)](https://pixiv.net/saharaforge)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/saharaforge)
