@@ -18,4 +18,4 @@ Yes, I get bored of things easily.
 [![Pixiv](https://img.shields.io/badge/Pixiv-%230096fa.svg?&style=for-the-badge&logo=Pixiv&logoColor=white)](https://www.pixiv.net/users/111257690)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/saharaforge)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/saharaforge/)
-[![unityroom](https://img.shields.io/badge/unityroom-%23E60023.svg?&style=for-the-badge&logo=unityroom&logoColor=white)](https://unityroom.com/users/saharaforge)
+[![unityroom](https://img.shields.io/badge/unityroom-%232e93ff.svg?&style=for-the-badge&logo=unityroom&logoColor=white)](https://unityroom.com/users/saharaforge)
