@@ -19,3 +19,4 @@ Yes, I get bored of things easily.
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/saharaforge)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/saharaforge/)
 [![unityroom](https://img.shields.io/badge/unityroom-%232e93ff.svg?&style=for-the-badge&logo=unityroom&logoColor=white)](https://unityroom.com/users/saharaforge)
+[![itch](https://img.shields.io/badge/itch-%232e93ff.svg?&style=for-the-badge&logo=itch&logoColor=white)](https://saharaforge.itch.io/)
