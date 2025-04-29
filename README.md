@@ -5,7 +5,7 @@ I'm a GAME CREATOR, CG CREATOR, WEB PAGE CREATOR, ILLUSTRATOR, and WRITER.
 Yes, I get bored of things easily.
 
  ---
-
+## Links
 <!-- 2312100E -->
 
 [![saharaforge](https://img.shields.io/badge/saharaforge.com-F4A261.svg?&style=for-the-badge&logoColor=ffffff)](https://saharaforge.com/)
